@@ -21,6 +21,4 @@ To improve my front-end skills through hands-on practice and respectful learning
 ## Repository
 
 You can find the original repository here:  
-[(https://github.com/sahrsalem/twilight-moon)
 (https://github.com/sahrsalem/twilight-moon)
-)
