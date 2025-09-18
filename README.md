@@ -1,24 +1,30 @@
-# Twilight Moon (Training Project)
+# Twilight Moon 🌙
 
-This project is part of my front-end development training.  
-It was built as a practice exercise to explore HTML, CSS animations, and responsive design techniques.
+This is a small front-end project I made while learning HTML and CSS.  
+It shows a basic webpage with a navigation bar and some sample sections.
 
- **Disclaimer:**  
- The design and concept are based on a publicly available tutorial or template.  
- I do not claim ownership of the original idea or visuals.  
- This repository is for educational purposes only.
+# 🔗 Live Demo :
 
-## What I learned
-- Structuring HTML elements for animated scenes
-- Applying CSS transitions and keyframes
-- Managing layout responsiveness across devices
-- Using Git and GitHub for version control
+You can see the project online [here](https://sahrsalem.github.io/twilight-moon/)
 
+## About :
 
-## My goal
-To improve my front-end skills through hands-on practice and respectful learning.
+The page includes:
+- Navigation links (Home, Product, Shop, About, Contact)
+- Simple layout and placeholder text
+- Basic styling using CSS
 
-## Repository
+This helped me practice:
+- Writing HTML structure
+- Styling with CSS
+- Publishing a site using GitHub Pages
 
-You can find the original repository here:  
-(https://sahrsalem.github.io/twilight-moon/)
+# Disclaimer :
+
+This is a learning project.  
+The design and idea are based on a free tutorial.  
+I don’t own the original design or visuals.
+
+Original tutorial by [Abdelrahman Gamal on YouTube](https://youtu.be/Iy7oFI76FpE?si=GePfWJ6jBymM0jus)
+  
+
